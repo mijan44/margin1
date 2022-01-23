@@ -1,0 +1,36 @@
+
+
+.header{
+	heighr:  100px;
+	min-height:100px ;
+	background: red;
+
+}
+.Wrapper{
+	height: 100px;
+	min-height: 100px;
+	background: blue;
+	width: 60%;
+	float: left;
+
+}
+.contact{
+	height: 100px;
+	min-height: 100px;
+	background: yellow;
+
+}
+.blog{
+	height: 100px;
+	min-height: 100px;
+	background: pink;
+
+
+
+}
+.fieldset {
+    display: block;
+    margin-inline-start: 2px;
+    margin-inline-end: 2px;
+    
+}
